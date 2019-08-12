@@ -1,0 +1,10 @@
+C:\Users\Kevin\source\repos\EnterAge\EnterAge\bin\Debug\EnterAge.exe.config
+C:\Users\Kevin\source\repos\EnterAge\EnterAge\bin\Debug\EnterAge.exe
+C:\Users\Kevin\source\repos\EnterAge\EnterAge\bin\Debug\EnterAge.pdb
+C:\Users\Kevin\source\repos\EnterAge\EnterAge\obj\Debug\EnterAge.csprojAssemblyReference.cache
+C:\Users\Kevin\source\repos\EnterAge\EnterAge\obj\Debug\EnterAge.Form1.resources
+C:\Users\Kevin\source\repos\EnterAge\EnterAge\obj\Debug\EnterAge.Properties.Resources.resources
+C:\Users\Kevin\source\repos\EnterAge\EnterAge\obj\Debug\EnterAge.csproj.GenerateResource.cache
+C:\Users\Kevin\source\repos\EnterAge\EnterAge\obj\Debug\EnterAge.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\EnterAge\EnterAge\obj\Debug\EnterAge.exe
+C:\Users\Kevin\source\repos\EnterAge\EnterAge\obj\Debug\EnterAge.pdb
